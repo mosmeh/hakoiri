@@ -1,2 +1,2 @@
 # hakoiri
-Klotski (Japanese name: hakoiri musume) solver
+[Klotski](https://en.wikipedia.org/wiki/Klotski) (Japanese name: hakoiri musume) solver
